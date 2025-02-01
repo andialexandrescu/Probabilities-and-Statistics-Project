@@ -2,7 +2,7 @@
 
 # Continut proiect:
 
-- Activitate cu n etape, o probabilitate de a trece de la etapa i la i + 1 de alfa_i
+- Activitate cu n etape, o probabilitate de a trece de la etapa i la i + 1 de alfa_i.
 Timpul petrecut la o etapa e asociat unei variabile aleatoare continue T_i cu functia de masa
 egala cu cea exponentiala de rata lambda_i. T este timpul total pentru etapele parcurse.
 Sunt facute 10^6 simulari si se observa comportamentul mediei E(T), probabilitatii P(finalizare_n_etape)
